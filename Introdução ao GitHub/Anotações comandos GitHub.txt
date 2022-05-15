@@ -1,0 +1,13 @@
+git status
+Visuzlizar os arquivos que foram modificados
+
+git init
+Incializar um repositório git
+
+git add . 
+Realizar commit com descrição do que foi modificado
+
+git commit -m "Descrição das modificações"
+Realizar commit om descrção do que foi modificado
+
+
